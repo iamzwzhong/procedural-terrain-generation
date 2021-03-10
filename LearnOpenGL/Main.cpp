@@ -6,7 +6,6 @@
 #include <glm/gtc/type_ptr.hpp>
 
 #include "Shader.h"
-#include "ChunkGenerator.h"
 
 #include <iostream>
 
