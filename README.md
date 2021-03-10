@@ -12,4 +12,4 @@ To run this project, link all the required dependencies and run/debug it using a
 
 ## Demo
 
-![Demo](https://imgur.com/wafCFBs.gif)
+![Demo](https://imgur.com/OAdarFa.gif)
